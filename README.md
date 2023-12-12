@@ -5,6 +5,6 @@
 <a href="https://github.com/randiijulian"><img src="https://img.shields.io/badge/GitHub-Profile-lightgrey?logo=github" alt="Github"></a>
 <!-- <a href="https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset"><img src="https://img.shields.io/badge/Dataset-Download-green" alt="Dataset"></a> -->
 
-# Pengembangan-Machine-Learning-Dicoding
+# Pengembangan Machine Learning Dicoding
 
 </div>
