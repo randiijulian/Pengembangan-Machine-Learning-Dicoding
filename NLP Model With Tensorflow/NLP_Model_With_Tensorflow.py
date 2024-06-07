@@ -8,7 +8,7 @@ Original file is located at
 
 Nama : Randi Julian Saputra
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/randiijulian/Machine-Learning-Terapan-Dicoding/blob/main/Recommender%20System/Recommender_System.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/randiijulian/Pengembangan-Machine-Learning-Dicoding/blob/main/NLP%20Model%20With%20Tensorflow/NLP_Model_with_Tensorflow.ipynb)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/randijulian/)
 [![Github](https://img.shields.io/badge/GitHub-Profile-lightgrey?logo=github)](https://github.com/randiijulian)
 [![Dataset](https://img.shields.io/badge/Dataset-Download-green)](https://www.kaggle.com/datasets/abdallahwagih/emotion-dataset)
